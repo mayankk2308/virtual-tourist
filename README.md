@@ -1,7 +1,6 @@
 # virtual-tourist
 App Specification: Virtual Tourist
 
-iOS Developer Nanodegree
 This app allows users specify travel locations around the world, and create virtual photo albums for each location. The locations and photo albums will be stored in Core Data.
 The app will have two view controller scenes.
 Travel Locations Map View: Allows the user to drop pins around the world
