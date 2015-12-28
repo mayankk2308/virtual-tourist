@@ -1,6 +1,4 @@
 # virtual-tourist
-
-UdacityIdentity_vert_OG.png	
 App Specification: Virtual Tourist
 
 iOS Developer Nanodegree
